@@ -1,0 +1,21 @@
+body {
+    margin: 15px 25px 45px 25px;
+    font-family: "Indie Flower";
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    background-color: black;
+    color: yellowgreen;
+
+}
+h1, p {
+    text-align: center;
+    font-size: 2rem;
+    
+}
+iframe {
+    border: 2px yellowgreen solid;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
